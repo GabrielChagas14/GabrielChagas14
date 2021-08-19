@@ -1,6 +1,6 @@
 ## Olá eu sou Gabriel Chagas
 
-- 🔭 hoje eu desenvolno no front e no back-end
+- 🔭 hoje eu desenvolvo no front e no back-end
 - 🌱 Estudando Vue.js e Laravel
 
  <div  align="center">
