@@ -1,6 +1,6 @@
 ## Olá eu sou Gabriel Chagas
 
-- 🔭 hoje eu trabalho com front e back-end
+- 🔭 hoje eu desenvolno no front e no back-end
 - 🌱 Estudando Vue.js e Laravel
 
  <div  align="center">
@@ -25,4 +25,4 @@
  
 </div>
   
-   ![Snake animation](https://github.com/GabrielChagas14/GabrielChagas14/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GabrielChagas14/GabrielChagas14/blob/output/github-contribution-grid-snake.svg)
