@@ -1,6 +1,6 @@
 ## Olá eu sou Gabriel Chagas
 
-- 🔭 hoje eu trabalho como  dev front end
+- 🔭 hoje eu trabalho como  dev full stack
 - 🌱 Estudando Vue.js e Laravel
 
  <div  align="center">
